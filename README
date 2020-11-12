@@ -1,3 +1,5 @@
 Lemario extraído de: http://olea.org/proyectos/lemarios/
 
 Hice un fork para agregar el listado de verbos.txt y el listado de todas las conjugaciones de los verbos estraido de la pagina de la RAE
+
+PALABRAS_SIN_ACENTOS.txt es un consolidado de todas las palabras (incluyendo conjugaciones) y quitando las tildes de las a, e, i, o y u. Y la dieresis de la u
